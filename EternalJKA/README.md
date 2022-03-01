@@ -9,22 +9,22 @@ You must place the files: master.cfg, sabering.cfg, jedimode.cfg, sithmode.cfg a
 After that, run the commands in the order that they appear in the 1-first.cfg file. This is only necessary to do the first time, then it will not be necessary.
 
 ### Controls
-F1 = Change name to Padawan
-F2 = Change name "yourName"
-F4 = Recharge master.cfg
-f5 = Load sabering.cfg
-f6 = Load jedimode.cfg
-f7 = Load sithmode.cfg
-f8 = Load racemode.cfg
-f10 = record
-f11 = toprecord
-f12 = screenshot
-ctrl = Amtelemark (for racemode)
-alt = Amtele (for racemode)
-mouse4 = lowjump (for eternal sabering mode)
-mouse4 = flipkick (for eternal = jediSith mode)
-7, 8 y 9 = Cambia entre distintos tipos de sable siendo el orden Single, Dobles y Dual en ese orden.
-H y J = Zoom in and out.
+- F1 = Change name to Padawan
+- F2 = Change name "yourName"
+- F4 = Recharge master.cfg
+- f5 = Load sabering.cfg
+- f6 = Load jedimode.cfg
+- f7 = Load sithmode.cfg
+- f8 = Load racemode.cfg
+- f10 = record
+- f11 = toprecord
+- f12 = screenshot
+- ctrl = Amtelemark (for racemode)
+- alt = Amtele (for racemode)
+- mouse4 = lowjump (for eternal sabering mode)
+- mouse4 = flipkick (for eternal = jediSith mode)
+- 7, 8 y 9 = Cambia entre distintos tipos de sable siendo el orden Single, Dobles y Dual en ese orden.
+- H y J = Zoom in and out.
 
 ### Edition
 You can always edit the files, you can open each cfg with your preferred code editor or use notepad if you want to change any value, for example f2 key in master.cfg to put a custom name.

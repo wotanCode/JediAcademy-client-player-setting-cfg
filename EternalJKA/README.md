@@ -17,7 +17,7 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - f7 = Load sithmode.cfg
 - f8 = Load racemode.cfg
 - f10 = record
-- f11 = toprecord
+- f11 = stoprecord
 - f12 = screenshot
 - ctrl = Amtelemark (for racemode)
 - alt = Amtele (for racemode)

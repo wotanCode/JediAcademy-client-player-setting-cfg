@@ -1,4 +1,4 @@
-### previous requirements
+### Previous Requirements
 
 This CFG's works with the eternalJK client modification:
 - https://github.com/eternalcodes/EternalJK

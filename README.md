@@ -7,9 +7,8 @@ You can switch to different settings with the f4 f5 f6 f7 f8 f9 keys.
 
 ### SUPPORT Q3 CONSOLE documentation
 
-`Cmdlist` <--- this is a command for q3 engine
+`Cmdlist` <--- list commands for q3 engine
 - http://www.joz3d.net/html/q3console.html
 - https://jediacademy.fandom.com/wiki/Commands_Guide
 - https://thejediacademy.net/holocron_detail_page.php?f_id=60
 - https://www.thejediacademy.net/~jastaff/stuff/Random/fps.html
-

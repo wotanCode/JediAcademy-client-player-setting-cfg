@@ -10,7 +10,8 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 
 ### Controls
 - F1 = Change name to Padawan
-- F2 = Change name "yourName"
+- F2 = Change name "yourName1"
+- F3 = Change name "yourName2"
 - F4 = Recharge master.cfg
 - f5 = Load sabering.cfg
 - f6 = Load jedimode.cfg

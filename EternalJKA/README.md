@@ -27,9 +27,6 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - 7, 8 y 9 = Change saber: Single, double and personal.
 - H y J = Zoom in and out.
 
-### Edition
-You can always edit the files, you can open each cfg with your preferred code editor or use notepad if you want to change any value, for example f2 key in master.cfg to put a custom name.
-
 ### Some eternalJKA Documentation
 - Eternal does not need more configurations to record the games.
 ```

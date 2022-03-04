@@ -24,7 +24,7 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - alt = Amtele (for racemode)
 - mouse4 = lowjump (for eternal sabering mode)
 - mouse4 = flipkick (for eternal = jediSith mode)
-- 7, 8 y 9 = Change saber: Single, double and personal.
+- 7, 8 y 9 = Change saber: Single, double and staff.
 - H y J = Zoom in and out.
 
 ### Base commands Documentation

@@ -27,7 +27,18 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - 7, 8 y 9 = Change saber: Single, double and personal.
 - H y J = Zoom in and out.
 
-### Some eternalJKA Documentation
+### Base commands Documentation
+- `com_maxfps` That modify your jump level: 142=very low, 200=low 125=medium 333=high
+- `cl_timenudge` tn<-30 or tn>30 = hack. -1 for base server with proxy
+- `cg_rendertotexturefx 0;` Disable push and pull effect
+- `cg_fov` fov > 97 = hack
+- `cg_thirdPersonRange` tpr > 80 = hack
+
+### Ja+ commands Documentation
+- `amdropsaber` drop saber
+- `pluginDisable 13;` SP/MP-style for cartwheel move
+
+### eternalJKA commands Documentation
 - Eternal does not need more configurations to record the games.
 ```
 bind f10 record;

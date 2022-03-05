@@ -11,6 +11,7 @@ You can always edit the files, you can open each cfg with your preferred code ed
 ### SUPPORT Q3 CONSOLE documentation
 
 `Cmdlist` <--- list commands for q3 engine
+- https://www.quake3world.com/q3guide/console.html
 - http://www.joz3d.net/html/q3console.html
 - https://jediacademy.fandom.com/wiki/Commands_Guide
 - https://thejediacademy.net/holocron_detail_page.php?f_id=60

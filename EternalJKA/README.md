@@ -20,7 +20,7 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - f10 = record
 - f11 = stoprecord
 - f12 = screenshot
-- ctrl = Amtelemark (for racemode)
+- b = Amtelemark (for racemode)
 - alt = Amtele (for racemode)
 - mouse4 = lowjump (for eternal sabering mode)
 - mouse4 = flipkick (for eternal = jediSith mode)

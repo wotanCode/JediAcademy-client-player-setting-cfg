@@ -33,6 +33,7 @@ After that, run the commands in the order that they appear in the 1-first.cfg fi
 - `cg_rendertotexturefx 0;` Disable push and pull effect
 - `cg_fov` fov > 97 = hack
 - `cg_thirdPersonRange` tpr > 80 = hack
+- `chart_color_` red/blue/green => change model color
 
 ### Ja+ commands Documentation
 - `amdropsaber` drop saber

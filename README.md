@@ -1,7 +1,7 @@
 # JediAcademy Client CFG
 
 ### Previous Requirements
-You need the game Star Wars Jedi Knight: Jedi Academy
+You need the game Star Wars Jedi Knight: Jedi Academy.
 #
 ![scriptmaster](https://user-images.githubusercontent.com/72775296/120123985-e318e900-c17f-11eb-83f3-36ddedcf394c.jpg)
 
